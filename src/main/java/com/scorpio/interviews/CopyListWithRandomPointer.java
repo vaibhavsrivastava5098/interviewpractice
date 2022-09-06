@@ -1,3 +1,4 @@
+package com.scorpio.interviews;
 import java.util.HashMap;
 
 public class CopyListWithRandomPointer {
